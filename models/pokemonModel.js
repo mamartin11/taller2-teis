@@ -8,7 +8,7 @@ const pokemones = [
   { id: 7, nombre: "Psyduck", altura: 0.8, habilidad: "Confusión", imagen: "https://taller2-teis.s3.us-east-1.amazonaws.com/Psyduck.png",frase: "¡Mi cabeza duele!" },
   { id: 8, nombre: "Snorlax", altura: 2.1, habilidad: "Descanso", imagen: "https://taller2-teis.s3.us-east-1.amazonaws.com/Snorlax.png",frase: "Dormir es vida" },
   { id: 9, nombre: "Eevee", altura: 0.3, habilidad: "Adaptabilidad", imagen: "https://taller2-teis.s3.us-east-1.amazonaws.com/Eevee.png",frase: "¡Puedo cambiar!" },
-  { id: 10, nombre: "Gengar", altura: 1.5, habilidad: "Sombra", imagen: "https://taller2-teis.s3.us-east-1.amazonaws.com/Gengar.png",frase: "¡Boo! ¿Te asusté?" }
+  { id: 10, nombre: "Gengar", altura: 1.5, habilidad: "Sombra", imagen: "https://taller2-teis.s3.us-east-1.amazonaws.com/Gengar.png",frase: "¡Booo! ¿Te asusté?" }
 ];
 
 module.exports = pokemones;
